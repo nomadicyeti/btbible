@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dzongkha.bible",
+      "sha256_cert_fingerprints": [
+        "9B:B7:B7:95:57:0A:C4:08:73:9E:9F:A3:A6:BE:22:E3:39:66:B0:9B:9C:C8:78:9D:D0:CA:2B:01:6B:53:4A:35"
+      ]
+    }
+  }
+]
